@@ -1,0 +1,94 @@
+CHARACTERISTIC	DESCRIPTION
+Attribute Set	Top
+Product Name	Champ Tee
+SKU				MS-Champ
+Price			25.00
+Tax Class		Taxable Goods
+Weight			0.5
+Categories		Men, Tops, Tees
+Visibility		Catalog, Search
+Material		LumaTech
+Pattern			Graphic Print
+Color			Gray
+Size			Configurable in small, medium, or large
+Description		The Champ Tee keeps you cool and dry while you do your thing. Let everyone know who you are by adding your name on the back for only $10.
+
+ENDPOINTS
+POST   /V1/products
+PUT    /V1/products/:sku
+DELETE /V1/products/:sku
+GET    /V1/products
+GET    /V1/products/:sku
+GET    /V1/products/attributes/types
+GET    /V1/products/attributes/:attributeCode
+GET    /V1/products/attributes
+GET    /V1/categories/attributes/:attributeCode
+GET    /V1/categories/attributes
+GET    /V1/categories/attributes/:attributeCode/options
+POST   /V1/products/attributes
+PUT    /V1/products/attributes/:attributeCode
+DELETE /V1/products/attributes/:attributeCode
+GET    /V1/products/types
+GET    /V1/products/attribute-sets/sets/list
+GET    /V1/products/attribute-sets/:attributeSetId
+DELETE /V1/products/attribute-sets/:attributeSetId
+POST   /V1/products/attribute-sets
+PUT    /V1/products/attribute-sets/:attributeSetId
+GET    /V1/products/attribute-sets/:attributeSetId/attributes
+POST   /V1/products/attribute-sets/attributes
+DELETE /V1/products/attribute-sets/:attributeSetId/attributes/:attributeCode
+GET    /V1/products/attribute-sets/groups/list
+POST   /V1/products/attribute-sets/groups
+PUT    /V1/products/attribute-sets/:attributeSetId/groups
+DELETE /V1/products/attribute-sets/groups/:groupId
+GET    /V1/products/attributes/:attributeCode/options
+POST   /V1/products/attributes/:attributeCode/options
+DELETE /V1/products/attributes/:attributeCode/options/:optionId
+GET    /V1/products/media/types/:attributeSetName
+GET    /V1/products/:sku/media/:entryId
+POST   /V1/products/:sku/media
+PUT    /V1/products/:sku/media/:entryId
+DELETE /V1/products/:sku/media/:entryId
+GET    /V1/products/:sku/media
+GET    /V1/products/:sku/group-prices/:customerGroupId/tiers
+POST   /V1/products/:sku/group-prices/:customerGroupId/tiers/:qty/price/:price
+DELETE /V1/products/:sku/group-prices/:customerGroupId/tiers/:qty
+POST   /V1/products/tier-prices-information
+POST   /V1/products/tier-prices
+PUT    /V1/products/tier-prices
+POST   /V1/products/tier-prices-delete
+POST   /V1/products/base-prices-information
+POST   /V1/products/base-prices
+POST   /V1/products/cost-information
+POST   /V1/products/cost
+POST   /V1/products/cost-delete
+POST   /V1/products/special-price-information
+POST   /V1/products/special-price
+POST   /V1/products/special-price-delete
+DELETE /V1/categories/:categoryId
+GET    /V1/categories/:categoryId
+POST   /V1/categories
+GET    /V1/categories
+PUT    /V1/categories/:id
+PUT    /V1/categories/:categoryId/move
+GET    /V1/categories/list
+GET    /V1/products/options/types
+GET    /V1/products/:sku/options
+GET    /V1/products/:sku/options/:optionId
+POST   /V1/products/options
+PUT    /V1/products/options/:optionId
+DELETE /V1/products/:sku/options/:optionId
+GET    /V1/products/links/types
+GET    /V1/products/links/:type/attributes
+GET    /V1/products/:sku/links/:type
+POST   /V1/products/:sku/links
+DELETE /V1/products/:sku/links/:type/:linkedProductSku
+PUT    /V1/products/:sku/links
+GET    /V1/categories/:categoryId/products
+POST   /V1/categories/:categoryId/products
+PUT    /V1/categories/:categoryId/products
+DELETE /V1/categories/:categoryId/products/:sku
+POST   /V1/products/:sku/websites
+PUT    /V1/products/:sku/websites
+DELETE /V1/products/:sku/websites/:websiteId
+GET   /V1/products-render-info

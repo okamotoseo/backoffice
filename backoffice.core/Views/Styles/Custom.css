@@ -1,0 +1,97 @@
+@CHARSET "UTF-8";
+
+
+/* Custom page CSS
+      -------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.records-form{
+	display: inline;
+    width: 60px;
+    height: 25px !important;
+    font-size: 10px;
+    line-height: 1.42857143 !important;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 5px 10px;
+}
+
+.body-header{
+	margin: 10px 0 20px 0;
+    font-size: 18px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #eee;
+}
+
+
+
+tr.group-start,
+tr.group-start:hover {
+    background-color: #ddd !important;
+}
+
+tr.group-end,
+tr.group-end:hover {
+    background-color: #ddd !important;
+}
+
+
+.box .overlay>.fa, .overlay-wrapper .overlay>.fa{
+	left:55% !important;
+}
+
+**/
+
+
+
+ .esconder{
+      visibility: hidden;
+ }
+
+ .mostrar{
+      visibility: visible;
+ }
+ 
+ .form-group .has-info label {
+    color: #3c8dbc !important;
+}
+
+.tr_highline{
+	backgroundColor: "yellow", fontWeight: "bolder" 
+}
+.grey{
+	color:#555;
+}
+
+.bg-depato, .label-depato{
+    background-color: #31afb4 !important;
+}
+.bg-magento, .label-magento {
+    background-color: #fd7e14 !important;
+}
+
+.order_returns_modal .modal {
+  position: relative;
+  top: auto;
+  bottom: auto;
+  right: auto;
+  left: auto;
+  width: 50%;
+  display: block;
+  z-index: 1;
+}
+.order_returns_modal .modal {
+  background: transparent !important;
+}
+
+
+td.details-control {
+    background: url('/library/themes/AdminLTE-2.3.0/plugins/datatables/images/details_open.png') no-repeat center center !important;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('/library/themes/AdminLTE-2.3.0/plugins/datatables/images/details_close.png') no-repeat center center;
+}

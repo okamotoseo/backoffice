@@ -1,0 +1,929 @@
+CNovaApiLojistaV2\model\GetOrdersStatusNewResponse Object
+(
+    [orders] => Array
+        (
+            [0] => CNovaApiLojistaV2\model\OrderStatusNew Object
+                (
+                    [id] => 1195296301
+                    [order_site_id] => 11952963
+                    [site] => EX
+                    [payment_type] => 2
+                    [purchased_at] => DateTime Object
+                        (
+                            [date] => 2020-10-31 20:21:23.038000
+                            [timezone_type] => 1
+                            [timezone] => -03:00
+                        )
+
+                    [approved_at] => 
+                    [updated_at] => 
+                    [status] => PEN
+                    [total_amount] => 119
+                    [total_discount_amount] => 0
+                    [billing] => CNovaApiLojistaV2\model\BillingAddress Object
+                        (
+                            [address] => Rua xyz
+                            [number] => 231
+                            [complement] => casa
+                            [quarter] => 1
+                            [reference] => lala
+                            [city] => Sao Paulo
+                            [state] => SP
+                            [country_id] => BR
+                            [zip_code] => 13022234
+                        )
+
+                    [customer] => CNovaApiLojistaV2\model\Customer Object
+                        (
+                            [id] =>  
+                            [name] => Gustavo Rubin 
+                            [document_number] => 30230230215
+                            [type] => PF
+                            [created_at] => 
+                            [email] => atendimento+OS_206090951311@mktp.extra.com.br
+                            [birth_date] => DateTime Object
+                                (
+                                    [date] => 1983-07-07 00:00:00.000000
+                                    [timezone_type] => 3
+                                    [timezone] => America/Sao_Paulo
+                                )
+
+                            [phones] => Array
+                                (
+                                    [0] => CNovaApiLojistaV2\model\Phone Object
+                                        (
+                                            [number] => 11202039283
+                                            [type] => MOBILE
+                                        )
+
+                                )
+
+                        )
+
+                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                        (
+                            [actual_amount] => 0
+                            [charged_amount] => 0
+                            [transit_time] => 
+                            [cross_docking_time] => 
+                            [additional_info] => 
+                            [type] => NOR
+                            [scheduled_at] => 
+                            [scheduled_period] => 
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => CNovaApiLojistaV2\model\OrderItem Object
+                                (
+                                    [id] => 1195296301-1
+                                    [sku_seller_id] => 998
+                                    [name] => 0000005213085
+                                    [sale_price] => 119
+                                    [sent] => 
+                                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                                        (
+                                            [actual_amount] => 0
+                                            [charged_amount] => 0
+                                            [transit_time] => 10
+                                            [cross_docking_time] => 10
+                                            [additional_info] => 
+                                            [type] => 
+                                            [scheduled_at] => 
+                                            [scheduled_period] => 
+                                        )
+
+                                    [gift_wrap] => 
+                                    [promotions] => 
+                                )
+
+                        )
+
+                    [trackings] => 
+                    [seller] => CNovaApiLojistaV2\model\Seller Object
+                        (
+                            [id] => 57711
+                            [name] => Lojista - Sandbox
+                        )
+
+                )
+
+            [1] => CNovaApiLojistaV2\model\OrderStatusNew Object
+                (
+                    [id] => 1195296201
+                    [order_site_id] => 11952962
+                    [site] => EX
+                    [payment_type] => 2
+                    [purchased_at] => DateTime Object
+                        (
+                            [date] => 2020-10-31 20:21:19.791000
+                            [timezone_type] => 1
+                            [timezone] => -03:00
+                        )
+
+                    [approved_at] => 
+                    [updated_at] => 
+                    [status] => PEN
+                    [total_amount] => 119
+                    [total_discount_amount] => 0
+                    [billing] => CNovaApiLojistaV2\model\BillingAddress Object
+                        (
+                            [address] => Rua xyz
+                            [number] => 231
+                            [complement] => casa
+                            [quarter] => 1
+                            [reference] => lala
+                            [city] => Sao Paulo
+                            [state] => SP
+                            [country_id] => BR
+                            [zip_code] => 13022234
+                        )
+
+                    [customer] => CNovaApiLojistaV2\model\Customer Object
+                        (
+                            [id] =>  
+                            [name] => Gustavo Rubin 
+                            [document_number] => 30230230215
+                            [type] => PF
+                            [created_at] => 
+                            [email] => atendimento+OS_206090951211@mktp.extra.com.br
+                            [birth_date] => DateTime Object
+                                (
+                                    [date] => 1983-07-07 00:00:00.000000
+                                    [timezone_type] => 3
+                                    [timezone] => America/Sao_Paulo
+                                )
+
+                            [phones] => Array
+                                (
+                                    [0] => CNovaApiLojistaV2\model\Phone Object
+                                        (
+                                            [number] => 11202039283
+                                            [type] => MOBILE
+                                        )
+
+                                )
+
+                        )
+
+                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                        (
+                            [actual_amount] => 0
+                            [charged_amount] => 0
+                            [transit_time] => 
+                            [cross_docking_time] => 
+                            [additional_info] => 
+                            [type] => NOR
+                            [scheduled_at] => 
+                            [scheduled_period] => 
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => CNovaApiLojistaV2\model\OrderItem Object
+                                (
+                                    [id] => 1195296201-1
+                                    [sku_seller_id] => 998
+                                    [name] => 0000005213085
+                                    [sale_price] => 119
+                                    [sent] => 
+                                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                                        (
+                                            [actual_amount] => 0
+                                            [charged_amount] => 0
+                                            [transit_time] => 10
+                                            [cross_docking_time] => 10
+                                            [additional_info] => 
+                                            [type] => 
+                                            [scheduled_at] => 
+                                            [scheduled_period] => 
+                                        )
+
+                                    [gift_wrap] => 
+                                    [promotions] => 
+                                )
+
+                        )
+
+                    [trackings] => 
+                    [seller] => CNovaApiLojistaV2\model\Seller Object
+                        (
+                            [id] => 57711
+                            [name] => Lojista - Sandbox
+                        )
+
+                )
+
+            [2] => CNovaApiLojistaV2\model\OrderStatusNew Object
+                (
+                    [id] => 1195296101
+                    [order_site_id] => 11952961
+                    [site] => EX
+                    [payment_type] => 2
+                    [purchased_at] => DateTime Object
+                        (
+                            [date] => 2020-10-31 20:20:54.898000
+                            [timezone_type] => 1
+                            [timezone] => -03:00
+                        )
+
+                    [approved_at] => 
+                    [updated_at] => 
+                    [status] => PEN
+                    [total_amount] => 119
+                    [total_discount_amount] => 0
+                    [billing] => CNovaApiLojistaV2\model\BillingAddress Object
+                        (
+                            [address] => Rua xyz
+                            [number] => 231
+                            [complement] => casa
+                            [quarter] => 1
+                            [reference] => lala
+                            [city] => Sao Paulo
+                            [state] => SP
+                            [country_id] => BR
+                            [zip_code] => 13022234
+                        )
+
+                    [customer] => CNovaApiLojistaV2\model\Customer Object
+                        (
+                            [id] =>  
+                            [name] => Gustavo Rubin 
+                            [document_number] => 30230230215
+                            [type] => PF
+                            [created_at] => 
+                            [email] => atendimento+OS_206090951111@mktp.extra.com.br
+                            [birth_date] => DateTime Object
+                                (
+                                    [date] => 1983-07-07 00:00:00.000000
+                                    [timezone_type] => 3
+                                    [timezone] => America/Sao_Paulo
+                                )
+
+                            [phones] => Array
+                                (
+                                    [0] => CNovaApiLojistaV2\model\Phone Object
+                                        (
+                                            [number] => 11202039283
+                                            [type] => MOBILE
+                                        )
+
+                                )
+
+                        )
+
+                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                        (
+                            [actual_amount] => 0
+                            [charged_amount] => 0
+                            [transit_time] => 
+                            [cross_docking_time] => 
+                            [additional_info] => 
+                            [type] => NOR
+                            [scheduled_at] => 
+                            [scheduled_period] => 
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => CNovaApiLojistaV2\model\OrderItem Object
+                                (
+                                    [id] => 1195296101-1
+                                    [sku_seller_id] => 998
+                                    [name] => 0000005213085
+                                    [sale_price] => 119
+                                    [sent] => 
+                                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                                        (
+                                            [actual_amount] => 0
+                                            [charged_amount] => 0
+                                            [transit_time] => 10
+                                            [cross_docking_time] => 10
+                                            [additional_info] => 
+                                            [type] => 
+                                            [scheduled_at] => 
+                                            [scheduled_period] => 
+                                        )
+
+                                    [gift_wrap] => 
+                                    [promotions] => 
+                                )
+
+                        )
+
+                    [trackings] => 
+                    [seller] => CNovaApiLojistaV2\model\Seller Object
+                        (
+                            [id] => 57711
+                            [name] => Lojista - Sandbox
+                        )
+
+                )
+
+            [3] => CNovaApiLojistaV2\model\OrderStatusNew Object
+                (
+                    [id] => 1195296001
+                    [order_site_id] => 11952960
+                    [site] => EX
+                    [payment_type] => 2
+                    [purchased_at] => DateTime Object
+                        (
+                            [date] => 2020-10-31 20:20:23.883000
+                            [timezone_type] => 1
+                            [timezone] => -03:00
+                        )
+
+                    [approved_at] => 
+                    [updated_at] => 
+                    [status] => PEN
+                    [total_amount] => 119
+                    [total_discount_amount] => 0
+                    [billing] => CNovaApiLojistaV2\model\BillingAddress Object
+                        (
+                            [address] => Rua xyz
+                            [number] => 231
+                            [complement] => casa
+                            [quarter] => 1
+                            [reference] => lala
+                            [city] => Sao Paulo
+                            [state] => SP
+                            [country_id] => BR
+                            [zip_code] => 13022234
+                        )
+
+                    [customer] => CNovaApiLojistaV2\model\Customer Object
+                        (
+                            [id] =>  
+                            [name] => Gustavo Rubin 
+                            [document_number] => 30230230215
+                            [type] => PF
+                            [created_at] => 
+                            [email] => atendimento+OS_206090951011@mktp.extra.com.br
+                            [birth_date] => DateTime Object
+                                (
+                                    [date] => 1983-07-07 00:00:00.000000
+                                    [timezone_type] => 3
+                                    [timezone] => America/Sao_Paulo
+                                )
+
+                            [phones] => Array
+                                (
+                                    [0] => CNovaApiLojistaV2\model\Phone Object
+                                        (
+                                            [number] => 11202039283
+                                            [type] => MOBILE
+                                        )
+
+                                )
+
+                        )
+
+                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                        (
+                            [actual_amount] => 0
+                            [charged_amount] => 0
+                            [transit_time] => 
+                            [cross_docking_time] => 
+                            [additional_info] => 
+                            [type] => NOR
+                            [scheduled_at] => 
+                            [scheduled_period] => 
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => CNovaApiLojistaV2\model\OrderItem Object
+                                (
+                                    [id] => 1195296001-1
+                                    [sku_seller_id] => 998
+                                    [name] => 0000005213085
+                                    [sale_price] => 119
+                                    [sent] => 
+                                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                                        (
+                                            [actual_amount] => 0
+                                            [charged_amount] => 0
+                                            [transit_time] => 10
+                                            [cross_docking_time] => 10
+                                            [additional_info] => 
+                                            [type] => 
+                                            [scheduled_at] => 
+                                            [scheduled_period] => 
+                                        )
+
+                                    [gift_wrap] => 
+                                    [promotions] => 
+                                )
+
+                        )
+
+                    [trackings] => 
+                    [seller] => CNovaApiLojistaV2\model\Seller Object
+                        (
+                            [id] => 57711
+                            [name] => Lojista - Sandbox
+                        )
+
+                )
+
+            [4] => CNovaApiLojistaV2\model\OrderStatusNew Object
+                (
+                    [id] => 1195295901
+                    [order_site_id] => 11952959
+                    [site] => EX
+                    [payment_type] => 2
+                    [purchased_at] => DateTime Object
+                        (
+                            [date] => 2020-10-31 20:19:47.080000
+                            [timezone_type] => 1
+                            [timezone] => -03:00
+                        )
+
+                    [approved_at] => 
+                    [updated_at] => 
+                    [status] => PEN
+                    [total_amount] => 119
+                    [total_discount_amount] => 0
+                    [billing] => CNovaApiLojistaV2\model\BillingAddress Object
+                        (
+                            [address] => Rua xyz
+                            [number] => 231
+                            [complement] => casa
+                            [quarter] => 1
+                            [reference] => lala
+                            [city] => Sao Paulo
+                            [state] => SP
+                            [country_id] => BR
+                            [zip_code] => 13022234
+                        )
+
+                    [customer] => CNovaApiLojistaV2\model\Customer Object
+                        (
+                            [id] =>  
+                            [name] => Gustavo Rubin 
+                            [document_number] => 30230230215
+                            [type] => PF
+                            [created_at] => 
+                            [email] => atendimento+OS_205090951911@mktp.extra.com.br
+                            [birth_date] => DateTime Object
+                                (
+                                    [date] => 1983-07-07 00:00:00.000000
+                                    [timezone_type] => 3
+                                    [timezone] => America/Sao_Paulo
+                                )
+
+                            [phones] => Array
+                                (
+                                    [0] => CNovaApiLojistaV2\model\Phone Object
+                                        (
+                                            [number] => 11202039283
+                                            [type] => MOBILE
+                                        )
+
+                                )
+
+                        )
+
+                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                        (
+                            [actual_amount] => 0
+                            [charged_amount] => 0
+                            [transit_time] => 
+                            [cross_docking_time] => 
+                            [additional_info] => 
+                            [type] => NOR
+                            [scheduled_at] => 
+                            [scheduled_period] => 
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => CNovaApiLojistaV2\model\OrderItem Object
+                                (
+                                    [id] => 1195295901-1
+                                    [sku_seller_id] => 998
+                                    [name] => 0000005213085
+                                    [sale_price] => 119
+                                    [sent] => 
+                                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                                        (
+                                            [actual_amount] => 0
+                                            [charged_amount] => 0
+                                            [transit_time] => 10
+                                            [cross_docking_time] => 10
+                                            [additional_info] => 
+                                            [type] => 
+                                            [scheduled_at] => 
+                                            [scheduled_period] => 
+                                        )
+
+                                    [gift_wrap] => 
+                                    [promotions] => 
+                                )
+
+                        )
+
+                    [trackings] => 
+                    [seller] => CNovaApiLojistaV2\model\Seller Object
+                        (
+                            [id] => 57711
+                            [name] => Lojista - Sandbox
+                        )
+
+                )
+
+            [5] => CNovaApiLojistaV2\model\OrderStatusNew Object
+                (
+                    [id] => 1194296101
+                    [order_site_id] => 11942961
+                    [site] => EX
+                    [payment_type] => 2
+                    [purchased_at] => DateTime Object
+                        (
+                            [date] => 2020-10-31 19:45:14.961000
+                            [timezone_type] => 1
+                            [timezone] => -03:00
+                        )
+
+                    [approved_at] => 
+                    [updated_at] => 
+                    [status] => PEN
+                    [total_amount] => 119
+                    [total_discount_amount] => 0
+                    [billing] => CNovaApiLojistaV2\model\BillingAddress Object
+                        (
+                            [address] => Rua xyz
+                            [number] => 231
+                            [complement] => casa
+                            [quarter] => 1
+                            [reference] => lala
+                            [city] => Sao Paulo
+                            [state] => SP
+                            [country_id] => BR
+                            [zip_code] => 13022234
+                        )
+
+                    [customer] => CNovaApiLojistaV2\model\Customer Object
+                        (
+                            [id] =>  
+                            [name] => Gustavo Rubin 
+                            [document_number] => 00012345678
+                            [type] => PF
+                            [created_at] => 
+                            [email] => atendimento+OS_206090941111@mktp.extra.com.br
+                            [birth_date] => DateTime Object
+                                (
+                                    [date] => 1983-07-07 00:00:00.000000
+                                    [timezone_type] => 3
+                                    [timezone] => America/Sao_Paulo
+                                )
+
+                            [phones] => Array
+                                (
+                                    [0] => CNovaApiLojistaV2\model\Phone Object
+                                        (
+                                            [number] => 11202039283
+                                            [type] => MOBILE
+                                        )
+
+                                )
+
+                        )
+
+                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                        (
+                            [actual_amount] => 0
+                            [charged_amount] => 0
+                            [transit_time] => 
+                            [cross_docking_time] => 
+                            [additional_info] => 
+                            [type] => NOR
+                            [scheduled_at] => 
+                            [scheduled_period] => 
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => CNovaApiLojistaV2\model\OrderItem Object
+                                (
+                                    [id] => 1194296101-1
+                                    [sku_seller_id] => 998
+                                    [name] => 0000005213085
+                                    [sale_price] => 119
+                                    [sent] => 
+                                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                                        (
+                                            [actual_amount] => 0
+                                            [charged_amount] => 0
+                                            [transit_time] => 10
+                                            [cross_docking_time] => 10
+                                            [additional_info] => 
+                                            [type] => 
+                                            [scheduled_at] => 
+                                            [scheduled_period] => 
+                                        )
+
+                                    [gift_wrap] => 
+                                    [promotions] => 
+                                )
+
+                        )
+
+                    [trackings] => 
+                    [seller] => CNovaApiLojistaV2\model\Seller Object
+                        (
+                            [id] => 57711
+                            [name] => Lojista - Sandbox
+                        )
+
+                )
+
+            [6] => CNovaApiLojistaV2\model\OrderStatusNew Object
+                (
+                    [id] => 1194296001
+                    [order_site_id] => 11942960
+                    [site] => EX
+                    [payment_type] => 2
+                    [purchased_at] => DateTime Object
+                        (
+                            [date] => 2020-10-31 19:44:57.393000
+                            [timezone_type] => 1
+                            [timezone] => -03:00
+                        )
+
+                    [approved_at] => 
+                    [updated_at] => 
+                    [status] => PEN
+                    [total_amount] => 119
+                    [total_discount_amount] => 0
+                    [billing] => CNovaApiLojistaV2\model\BillingAddress Object
+                        (
+                            [address] => Rua xyz
+                            [number] => 231
+                            [complement] => casa
+                            [quarter] => 1
+                            [reference] => lala
+                            [city] => Sao Paulo
+                            [state] => SP
+                            [country_id] => BR
+                            [zip_code] => 13022234
+                        )
+
+                    [customer] => CNovaApiLojistaV2\model\Customer Object
+                        (
+                            [id] =>  
+                            [name] => Gustavo Rubin 
+                            [document_number] => 00012345678
+                            [type] => PF
+                            [created_at] => 
+                            [email] => atendimento+OS_206090941011@mktp.extra.com.br
+                            [birth_date] => DateTime Object
+                                (
+                                    [date] => 1983-07-07 00:00:00.000000
+                                    [timezone_type] => 3
+                                    [timezone] => America/Sao_Paulo
+                                )
+
+                            [phones] => Array
+                                (
+                                    [0] => CNovaApiLojistaV2\model\Phone Object
+                                        (
+                                            [number] => 11202039283
+                                            [type] => MOBILE
+                                        )
+
+                                )
+
+                        )
+
+                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                        (
+                            [actual_amount] => 0
+                            [charged_amount] => 0
+                            [transit_time] => 
+                            [cross_docking_time] => 
+                            [additional_info] => 
+                            [type] => NOR
+                            [scheduled_at] => 
+                            [scheduled_period] => 
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => CNovaApiLojistaV2\model\OrderItem Object
+                                (
+                                    [id] => 1194296001-1
+                                    [sku_seller_id] => 998
+                                    [name] => 0000005213085
+                                    [sale_price] => 119
+                                    [sent] => 
+                                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                                        (
+                                            [actual_amount] => 0
+                                            [charged_amount] => 0
+                                            [transit_time] => 10
+                                            [cross_docking_time] => 10
+                                            [additional_info] => 
+                                            [type] => 
+                                            [scheduled_at] => 
+                                            [scheduled_period] => 
+                                        )
+
+                                    [gift_wrap] => 
+                                    [promotions] => 
+                                )
+
+                        )
+
+                    [trackings] => 
+                    [seller] => CNovaApiLojistaV2\model\Seller Object
+                        (
+                            [id] => 57711
+                            [name] => Lojista - Sandbox
+                        )
+
+                )
+
+            [7] => CNovaApiLojistaV2\model\OrderStatusNew Object
+                (
+                    [id] => 1194295901
+                    [order_site_id] => 11942959
+                    [site] => EX
+                    [payment_type] => 2
+                    [purchased_at] => DateTime Object
+                        (
+                            [date] => 2020-10-31 19:43:36.209000
+                            [timezone_type] => 1
+                            [timezone] => -03:00
+                        )
+
+                    [approved_at] => 
+                    [updated_at] => 
+                    [status] => PEN
+                    [total_amount] => 119
+                    [total_discount_amount] => 0
+                    [billing] => CNovaApiLojistaV2\model\BillingAddress Object
+                        (
+                            [address] => Rua xyz
+                            [number] => 231
+                            [complement] => casa
+                            [quarter] => 1
+                            [reference] => lala
+                            [city] => Sao Paulo
+                            [state] => SP
+                            [country_id] => BR
+                            [zip_code] => 13022234
+                        )
+
+                    [customer] => CNovaApiLojistaV2\model\Customer Object
+                        (
+                            [id] =>  
+                            [name] => Gustavo Rubin 
+                            [document_number] => 00012345678
+                            [type] => PF
+                            [created_at] => 
+                            [email] => atendimento+OS_205090941911@mktp.extra.com.br
+                            [birth_date] => DateTime Object
+                                (
+                                    [date] => 1983-07-07 00:00:00.000000
+                                    [timezone_type] => 3
+                                    [timezone] => America/Sao_Paulo
+                                )
+
+                            [phones] => Array
+                                (
+                                    [0] => CNovaApiLojistaV2\model\Phone Object
+                                        (
+                                            [number] => 11202039283
+                                            [type] => MOBILE
+                                        )
+
+                                )
+
+                        )
+
+                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                        (
+                            [actual_amount] => 0
+                            [charged_amount] => 0
+                            [transit_time] => 
+                            [cross_docking_time] => 
+                            [additional_info] => 
+                            [type] => NOR
+                            [scheduled_at] => 
+                            [scheduled_period] => 
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => CNovaApiLojistaV2\model\OrderItem Object
+                                (
+                                    [id] => 1194295901-1
+                                    [sku_seller_id] => 998
+                                    [name] => 0000005213085
+                                    [sale_price] => 119
+                                    [sent] => 
+                                    [freight] => CNovaApiLojistaV2\model\Freight Object
+                                        (
+                                            [actual_amount] => 0
+                                            [charged_amount] => 0
+                                            [transit_time] => 10
+                                            [cross_docking_time] => 10
+                                            [additional_info] => 
+                                            [type] => 
+                                            [scheduled_at] => 
+                                            [scheduled_period] => 
+                                        )
+
+                                    [gift_wrap] => 
+                                    [promotions] => 
+                                )
+
+                        )
+
+                    [trackings] => 
+                    [seller] => CNovaApiLojistaV2\model\Seller Object
+                        (
+                            [id] => 57711
+                            [name] => Lojista - Sandbox
+                        )
+
+                )
+
+        )
+
+    [metadata] => Array
+        (
+            [0] => CNovaApiLojistaV2\model\MetadataEntry Object
+                (
+                    [key] => totalRows
+                    [value] => stdClass Object
+                        (
+                            [scalar] => 8
+                        )
+
+                )
+
+            [1] => CNovaApiLojistaV2\model\MetadataEntry Object
+                (
+                    [key] => offset
+                    [value] => stdClass Object
+                        (
+                            [scalar] => 0
+                        )
+
+                )
+
+            [2] => CNovaApiLojistaV2\model\MetadataEntry Object
+                (
+                    [key] => limit
+                    [value] => stdClass Object
+                        (
+                            [scalar] => 100
+                        )
+
+                )
+
+            [3] => CNovaApiLojistaV2\model\MetadataEntry Object
+                (
+                    [key] => first
+                    [value] => stdClass Object
+                        (
+                            [scalar] => /orders/status/new?purchasedAt=*%2C2020-10-31T20%3A40%3A02-0300&_offset=0&_limit=100
+                        )
+
+                )
+
+            [4] => CNovaApiLojistaV2\model\MetadataEntry Object
+                (
+                    [key] => previous
+                    [value] => stdClass Object
+                        (
+                            [scalar] => 
+                        )
+
+                )
+
+            [5] => CNovaApiLojistaV2\model\MetadataEntry Object
+                (
+                    [key] => next
+                    [value] => stdClass Object
+                        (
+                            [scalar] => 
+                        )
+
+                )
+
+            [6] => CNovaApiLojistaV2\model\MetadataEntry Object
+                (
+                    [key] => last
+                    [value] => stdClass Object
+                        (
+                            [scalar] => /orders/status/new?purchasedAt=*%2C2020-10-31T20%3A40%3A02-0300&_offset=0&_limit=100
+                        )
+
+                )
+
+        )
+
+)

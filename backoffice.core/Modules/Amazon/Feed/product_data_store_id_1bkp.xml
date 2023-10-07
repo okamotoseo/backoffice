@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+  <Header>
+    <DocumentVersion>1.0</DocumentVersion>
+    <MerchantIdentifier>AX3BXOBQKW3QC</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <PurgeAndReplace>true</PurgeAndReplace>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>10</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>10</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[10]]></Title>
+        <Brand><![CDATA[Zagonel]]></Brand>
+        <Description><![CDATA[10]]></Description>
+        <MSRP currency="USD"><![CDATA[10]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+  <Header>
+    <DocumentVersion>1.0</DocumentVersion>
+    <MerchantIdentifier>A2Q3Y263D00KWC</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <PurgeAndReplace>true</PurgeAndReplace>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>20</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>22</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>24</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>26</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>28</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>30</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>0011005001442</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>0011005001442</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[BOTINA MASCULINA F LATEX PRETO]]></Title>
+        <Brand><![CDATA[F1000]]></Brand>
+        <Description><![CDATA[A botina F1000 é confeccionada em 100% em couro, com costura reforçada. O modelo possui elástico na lateral e puxadores facilitando o calce. O solado em borracha látex garante estabilidade e leveza.    Características Material: Couro Forro: Couro  Palmilha: Revestida em PU  Solado: Emborrachado]]></Description>
+        <MSRP currency="USD"><![CDATA[145.19]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

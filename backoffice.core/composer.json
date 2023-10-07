@@ -1,0 +1,22 @@
+{
+	"name" : "willians/sysplace",
+	"description" : "integrações de sistemas",
+	"support" : {
+		"email" : "dev.masterxml@gmail.com"
+	},
+	"authors" : [{
+			"name" : "Willians Okamoto",
+			"email" : "willians.seo@gmail.com"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"bittools/skyhub-php\\" : "192.168.154.28/var/www/html/app_mvc/Modules/B2W/library/skyhub-php-1.2-develop/src/"
+		}
+	},
+	"type" : "library",
+	"require" : {
+		"bittools/skyhub-php" : "^1.1",
+		"mercadopago/dx-php" : "^2.1"
+	}
+}

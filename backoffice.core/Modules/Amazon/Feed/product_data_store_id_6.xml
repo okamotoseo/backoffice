@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+  <Header>
+    <DocumentVersion>1.0</DocumentVersion>
+    <MerchantIdentifier>A2Q3Y263D00KWC</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <PurgeAndReplace>false</PurgeAndReplace>
+  <Message>
+    <MessageID>209431</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>1706</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7895730059106</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Jogo De Taças Arezzo para  Vinho 270 ml Bohemia - 6 UN]]></Title>
+        <Brand><![CDATA[Bohemia]]></Brand>
+        <Description><![CDATA[Conjunto com 6 taças de cristal Bohemia para vinho 270 ml modelo Arezzo .Altura 17,5 cm e largura da boca 8,5 cm.]]></Description>
+        <BulletPoint><![CDATA[Jogo De Taças Arezzo para  Vinho 270 ml Bohemia - 6 UN]]></BulletPoint>
+        <ItemDimensions>
+          <Length unitOfMeasure="CM"><![CDATA[30]]></Length>
+          <Width unitOfMeasure="CM"><![CDATA[30]]></Width>
+          <Height unitOfMeasure="CM"><![CDATA[22]]></Height>
+        </ItemDimensions>
+        <ItemWeight unitOfMeasure="KG"><![CDATA[4]]></ItemWeight>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>211369</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>3735</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7899001053589</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Pratos Sobremesa Plissé Azul Porto Brasil  20 Cm - 6  Peças]]></Title>
+        <Brand><![CDATA[Porto Brasil]]></Brand>
+        <Description><![CDATA[Conjunto com 6 pratos para sobremesa, azul navy , confeccionado em cerâmica, Porto Brasil , 20 cm .&nbsp;]]></Description>
+        <BulletPoint><![CDATA[Pratos Sobremesa Plissé Azul Porto Brasil  20 Cm - 6  Peças]]></BulletPoint>
+        <ItemDimensions>
+          <Length unitOfMeasure="CM"><![CDATA[30]]></Length>
+          <Width unitOfMeasure="CM"><![CDATA[30]]></Width>
+          <Height unitOfMeasure="CM"><![CDATA[20]]></Height>
+        </ItemDimensions>
+        <ItemWeight unitOfMeasure="KG"><![CDATA[4]]></ItemWeight>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>212117</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>4495</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7895730257281</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Conjunto Com 3 Peças Para  Queijo Zamac  Abacaxi - 3 Un]]></Title>
+        <Brand><![CDATA[Rojemac]]></Brand>
+        <Description><![CDATA[Conjunto com 3 peças para Queijo Zamac .Contém 1 garfo ( com duas pontas ) comprimento 15 cm.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1 espátula comprimento 14 cm.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1 faca comprimento 14 cm.&nbsp;&nbsp;]]></Description>
+        <BulletPoint><![CDATA[Conjunto Com 3 Peças Para  Queijo Zamac  Abacaxi - 3 Un]]></BulletPoint>
+        <ItemDimensions>
+          <Length unitOfMeasure="CM"><![CDATA[22]]></Length>
+          <Width unitOfMeasure="CM"><![CDATA[22]]></Width>
+          <Height unitOfMeasure="CM"><![CDATA[6]]></Height>
+        </ItemDimensions>
+        <ItemWeight unitOfMeasure="KG"><![CDATA[1.000]]></ItemWeight>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>212178</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>4556</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7895730059014</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Garrafa Timesquare Cristal P/  Whisky 710 Ml  Bohemia - 1 Un]]></Title>
+        <Brand><![CDATA[Bohemia]]></Brand>
+        <Description><![CDATA[1 UNIDADE : Garrafa para whisky&nbsp; de Cristal Bohemia modelo Timesquare.Capacidade da garrafa : 710 mlMaterial da garrafa : CristalMarca : Bohemiaaltura da Garrafa com tampa: 25 cmaltura da garrafa sem tampa : 18 cm]]></Description>
+        <BulletPoint><![CDATA[Garrafa Timesquare Cristal P/  Whisky 710 Ml  Bohemia - 1 Un]]></BulletPoint>
+        <ItemDimensions>
+          <Length unitOfMeasure="CM"><![CDATA[18]]></Length>
+          <Width unitOfMeasure="CM"><![CDATA[18]]></Width>
+          <Height unitOfMeasure="CM"><![CDATA[28]]></Height>
+        </ItemDimensions>
+        <ItemWeight unitOfMeasure="KG"><![CDATA[4.000]]></ItemWeight>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>212386</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>4764</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7895730058161</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Garrafa De Cristal Maria Para Whisky 800 Ml Bohemia - 1 Un]]></Title>
+        <Brand><![CDATA[Bohemia]]></Brand>
+        <Description><![CDATA[1 UNIDADE - Garrafa de Cristal modelo Maria para whisky, capacidade de 800 ml, Bohemia.&nbsp;Altura da garrafa com tampa 20 cm.Altura da garrafa sem tampa 15 cm.]]></Description>
+        <BulletPoint><![CDATA[Garrafa De Cristal Maria Para Whisky 800 Ml Bohemia - 1 Un]]></BulletPoint>
+        <ItemDimensions>
+          <Length unitOfMeasure="CM"><![CDATA[20]]></Length>
+          <Width unitOfMeasure="CM"><![CDATA[20]]></Width>
+          <Height unitOfMeasure="CM"><![CDATA[25]]></Height>
+        </ItemDimensions>
+        <ItemWeight unitOfMeasure="KG"><![CDATA[6.000]]></ItemWeight>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>212861</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>5243</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7899001035592</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[CJ  6  Xícaras para Café Plissé Verde Sálvia Porto Brasil]]></Title>
+        <Brand><![CDATA[Porto Brasil]]></Brand>
+        <Description><![CDATA[Jogo com 6 xícaras 75 ml&nbsp; para café Plissé Verde Sálvia Porto Brasil ( altura da xícara 6 cm , comprimento com a asa 7,5 cm e diâmetro 5,5 cm ) e 6 pires ( altura 2 cm e comprimento 11 cm ) ideal para deixar sua mesa do café ainda mais charmosa.&nbsp;&nbsp;]]></Description>
+        <BulletPoint><![CDATA[CJ  6  Xícaras para Café Plissé Verde Sálvia Porto Brasil ]]></BulletPoint>
+        <ItemDimensions>
+          <Length unitOfMeasure="CM"><![CDATA[30]]></Length>
+          <Width unitOfMeasure="CM"><![CDATA[36]]></Width>
+          <Height unitOfMeasure="CM"><![CDATA[20]]></Height>
+        </ItemDimensions>
+        <ItemWeight unitOfMeasure="KG"><![CDATA[4]]></ItemWeight>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>213159</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>5544</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7895730351958</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Bomboniere P Louise Cristal Wolff - 1 UN]]></Title>
+        <Brand><![CDATA[Rojemac]]></Brand>
+        <Description><![CDATA[Bomboniere P Louise Cristal&nbsp; Wolff, sem pé. 1 UN.Altura com tampa 12 cm, altura sem tampa 5 cm e diâmetro 10 cm.&nbsp;]]></Description>
+        <BulletPoint><![CDATA[Bomboniere P Louise Cristal Wolff - 1 UN]]></BulletPoint>
+        <ItemDimensions>
+          <Length unitOfMeasure="CM"><![CDATA[20]]></Length>
+          <Width unitOfMeasure="CM"><![CDATA[20]]></Width>
+          <Height unitOfMeasure="CM"><![CDATA[15 cm ]]></Height>
+        </ItemDimensions>
+        <ItemWeight unitOfMeasure="KG"><![CDATA[1 ]]></ItemWeight>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>213427</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>5815</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7895730301748</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Jarra de cristal Starry 1 l com desenhos em relevo - 1 UN]]></Title>
+        <Brand><![CDATA[Wolff]]></Brand>
+        <Description><![CDATA[Jarra de Cristal Wolff, modelo Starry, capacidade de 1 litro.Altura da jarra 23 cm e diâmetro 14 cm.]]></Description>
+        <BulletPoint><![CDATA[Jarra de cristal Starry 1 l com desenhos em relevo - 1 UN]]></BulletPoint>
+        <ItemDimensions>
+          <Length unitOfMeasure="CM"><![CDATA[24]]></Length>
+          <Width unitOfMeasure="CM"><![CDATA[24]]></Width>
+          <Height unitOfMeasure="CM"><![CDATA[28]]></Height>
+        </ItemDimensions>
+        <ItemWeight unitOfMeasure="KG"><![CDATA[3]]></ItemWeight>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>213564</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>5955</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7895730352122</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Prato Duplo  Cristal Pearl Wolff  - 1 Un]]></Title>
+        <Brand><![CDATA[Rojemac]]></Brand>
+        <Description><![CDATA[Prato 2 andares&nbsp; cristal pearl Wolff. Prato base 32 cm de diâmetro e prato superior 19 cm de diâmetro.Para que a sobremesa fique ainda mais gostosa, ela deve ser servida com peças que valorizem o design e torne o momento ainda mais elegante e gostosoO Prato Duplo Wolff também pode ser usado para servir tortas, sobremesas, queijos, sanduíches e doces, além de diversas outras possibilidades, sendo uma peça chave em sua cozinha de muita utilidade na hora de servir a família e os amigos.Fabricado com cristal de excelente qualidade.]]></Description>
+        <BulletPoint><![CDATA[Prato Duplo  Cristal Pearl Wolff  - 1 Un]]></BulletPoint>
+        <ItemDimensions>
+          <Length unitOfMeasure="CM"><![CDATA[39]]></Length>
+          <Width unitOfMeasure="CM"><![CDATA[39]]></Width>
+          <Height unitOfMeasure="CM"><![CDATA[10]]></Height>
+        </ItemDimensions>
+        <ItemWeight unitOfMeasure="KG"><![CDATA[4.000]]></ItemWeight>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>287224</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>5553-copy</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7895730351996</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Bomboniere M Louise Sem Pé  Wolff - 1 Un]]></Title>
+        <Brand><![CDATA[Rojemac]]></Brand>
+        <Description><![CDATA[Bomboniere&nbsp; sem pé, m Louise Cristal Wolff - 1 UNAltura com tampa 14,5 cm, altura sem tampa 7 cm&nbsp; e diâmetro 14 cm.]]></Description>
+        <BulletPoint><![CDATA[Bomboniere M Louise Sem Pé  Wolff - 1 Un]]></BulletPoint>
+        <ItemDimensions>
+          <Length unitOfMeasure="CM"><![CDATA[18]]></Length>
+          <Width unitOfMeasure="CM"><![CDATA[20]]></Width>
+          <Height unitOfMeasure="CM"><![CDATA[25]]></Height>
+        </ItemDimensions>
+        <ItemWeight unitOfMeasure="KG"><![CDATA[2]]></ItemWeight>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

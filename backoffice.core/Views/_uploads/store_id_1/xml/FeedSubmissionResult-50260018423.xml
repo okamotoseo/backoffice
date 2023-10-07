@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>AX3BXOBQKW3QC</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>50260018423</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>1</MessagesProcessed>
+				<MessagesSuccessful>0</MessagesSuccessful>
+				<MessagesWithError>1</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 49, Column 19: cvc-complex-type.2.4.a: Invalid content was found starting with element &apos;ItemType&apos;. One of &apos;{HardwarePlatform, StyleName}&apos; is expected.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>10080</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 57, Column 24: cvc-complex-type.2.4.a: Invalid content was found starting with element &apos;ProductType&apos;. One of &apos;{BatteryDescription, CanShipInOriginalContainer, CountryAsLabeled, CountryOfOrigin, CountryProducedIn, ImportDesignation, FurDescription, IdentityPackageType, IncludedComponents, FabricType, PatternName, SeatHeight, SpecialFeatures, StyleName, Occasion, MatteStyle, DisplayLength, DisplayWidth, DisplayHeight, DisplayDepth, DisplayDiameter, DisplayVolume, DisplayWeight, ItemPackageQuantity, ManufacturerWarrantyDescription, Volume, VolumeCapacity, Material, ThreadCount, NumberOfPieces, SafetyWarning, AwardsWon, BatteryAverageLife, BatteryAverageLifeStandby, BatteryChargeTime, BatteryTypeLithiumIon, BatteryTypeLithiumMetal, LithiumBatteryEnergyContent, LithiumBatteryPackaging, LithiumBatteryVoltage, LithiumBatteryWeight, MfgWarrantyDescriptionLabor, MfgWarrantyDescriptionParts, MfgWarrantyDescriptionType, NumberOfItemsInPackage, NumberOfLithiumIonCells, NumberOfLithiumMetalCells, PowerSourceType, RegionOfOrigin, SellerWarrantyDescription, SizeMap, Warnings, Wattage, Length, Width, Height, Depth, Diameter, Weight, Spread, SunlightExposure, MoistureNeeds, USDAHardinessZone, SunsetClimateZone}&apos; is expected.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>10080</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+  <Header>
+    <DocumentVersion>1.0</DocumentVersion>
+    <MerchantIdentifier>AX3BXOBQKW3QC</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <PurgeAndReplace>true</PurgeAndReplace>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>999</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>123456</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Teste Willians]]></Title>
+        <Brand><![CDATA[3m]]></Brand>
+        <Description><![CDATA[teste]]></Description>
+        <MSRP currency="USD"><![CDATA[100]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>3M-152</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7891040124152</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[3M Auto Cera Brilho - Limpadora (200g)]]></Title>
+        <Brand><![CDATA[3M]]></Brand>
+        <Description><![CDATA[Cera Brilho 3M. Seu ve&iacute;culo com muito mais brilho! Cera Limpadora.
+
+Caracter&iacute;sticas:
+&bull;&nbsp;F&oacute;rmula exclusiva de alta performance
+&bull;&nbsp;F&aacute;cil aplica&ccedil;&atilde;o e remo&ccedil;&atilde;o
+&bull;&nbsp;Cera Limpadora
+&bull;&nbsp;Proporciona brilho intenso e duradouro
+&bull;&nbsp;Cont&eacute;m Silicone e Carna&uacute;ba
+&bull;&nbsp;Para todos os tipos de pintura
+
+Instru&ccedil;&otilde;es de uso: 
+1 - Lave bem o ve&iacute;culo e seque-o completamente.
+2 - Aplique a Cera Brilho 3M em pequena quantidade de&nbsp;Papel de Polimento 3M, fazendo movimento circulares e uniformes em pequenas &aacute;reas por vez.
+3 - Ap&oacute;s aplicar a cera sob uma segunda pe&ccedil;a retorne a inicial, por onde se come&ccedil;ou a aplicar a cera.
+4 - Remova o excesso da cera utilizando um Pano Ultra Performance 3M (Pano de Microfibra) limpo dando o brilho.]]></Description>
+        <MSRP currency="USD"><![CDATA[19.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>3M-714</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7891040119714</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[3M Anti-Impacto Protetor Transparente Piramidal (12 peças) - LIQUIDAÇÃO]]></Title>
+        <Brand><![CDATA[3M]]></Brand>
+        <Description><![CDATA[Protege superf&iacute;cies e objetos contra riscos, batidas e deslizamentos.Fixa&ccedil;&atilde;o r&aacute;pida e forte.
+
+Cada protetor suporta at&eacute;:
+
+Transparente Pequeno - 0,3kg
+Transparente Grande - 9,0kg
+Transparente Piramidal - 6,7kg
+
+Uso 
+
+Ideal para ser usado em portas, paredes , ma&ccedil;anetas, tampas, gavetas, esquadrias, etc.Tampos de mesa, eletrodom&eacute;sticos, computadores e objetos em geral.
+
+Modo de Usar
+
+Aplique o protetor em superf&iacute;cies bem limpas, secas e livres de res&iacute;duos de gordura ou &oacute;leo.Destaque o protetor da catela e aplique na superf&iacute;cie com press&atilde;o.Evite encostar os dedos no adesivo durante a aplica&ccedil;&atilde;o.]]></Description>
+        <MSRP currency="USD"><![CDATA[14.93]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>3M-NB-018</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7891040178193</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[3M Anti-Impacto Protetor Transparente Grande (16 peças) - LIQUIDAÇÃO]]></Title>
+        <Brand><![CDATA[3M]]></Brand>
+        <Description><![CDATA[Anti-Impacto Transparente Grande (16 peças) 3M protege superfícies e objetos contra riscos, batidas e deslizamentos.Fixação rápida e forte.
+
+Cada protetor suporta até:
+
+Transparente Pequeno - 5,0kg
+Transparente Grande - 9,0kg
+Transparente Piramidal - 14,0kg
+
+Uso
+
+Ideal para ser usado em portas, paredes , maçanetas, tampas, gavetas, esquadrias, etc.Tampos de mesa, eletrodomésticos, computadores e objetos em geral.
+
+Modo de Usar
+
+1. Aplique o protetor em superfícies bem limpas, secas e livres de resíduos de gordura ou óleo.
+2. Destaque o protetor da cartela e aplique na superfície com pressão.
+
+Obs.: Evite encostar os dedos no adesivo durante a aplicação.]]></Description>
+        <MSRP currency="USD"><![CDATA[11.66]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>3M-394</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7891040081394</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[3M Perfect-It Auto Brilho (500ml)]]></Title>
+        <Brand><![CDATA[3M]]></Brand>
+        <Description><![CDATA[Auto Brilho 3M é um produto líquido, de aplicação manual, destinado ao acabamento de pinturas automotivas após o processo de polimento. Proporciona um brilho intenso e permite que os solventes da tinta evaporem normalmente.
+
+Embalagem
+500ml
+
+Dica de utilização do Auto Brilho 3M
+
+Produtos:
+- Shampoo Neutro Automotivo
+- Esponja para lavar carro
+- Toalha Mágica ou Pano Microfibra
+- Algodão para polimento e&nbsp;Pano Microfibra&nbsp;seco
+- E o principal, AUTO BRILHO 3M
+
+Procedimento:
+FAÇA TODO PROCESSO NA SOMBRA, COM A LATARIA FRIA.
+
+1. Lave todo o carro com Shampoo Neutro, utilizando a Esponja. Seque-o utilizando a Toalha Mágica ou algum Pano Microfibra, que não arranha a pintura.
+2. Após, vamos ao AUTO BRILHO.
+3. Divida as partes do carro em pedaços. Exemplo: capo, divida em no mínimo 2 partes, ou seja, ao meio, e assim por diante, nunca passe o AUTO BRILHO na peça toda, vou explicar o por que. O AUTO BRILHO não funciona como uma cera comum, que se passa, espera secar e com uma flanela retira fazendo aquele pó danado, muito pelo contrario, se secar vai manchar a pintura e para arrumar a bersteira é bem trabalhoso, então nunca passe na peça toda.
+4. Umedeça um pedaço de algodão com o AUTO BRILHO, e esfregue na parte da peça, não precisa fazer muita força como se fosse uma cera comum, logo em seguida, sem esperar secar, pegue o Pano Microfibra, e retire todo o AUTO BRILHO, agora sim você vai ter que fazer um pouco de esforço físico, até a pintura ficar com a mesma tonalidade, não é difícil de enxergar esta tonalidade diferente, porque o efeito é instantâneo. Feito isso em pequenas partes de cada peça do carro, para dar o toque final, com um lado do Pano Microfibra totalmente limpo, de lustrada final em todo carro.
+
+Recomendações Importantes:
+Nunca faça isso com o carro ao sol ou com a pintura quente, nunca deixe o AUTO BRILHO secar na pintura, se quando você estiver tirando o AUTO BRILHO e começar a embaç]]></Description>
+        <MSRP currency="USD"><![CDATA[65.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>3M-PN05701</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7891040120772</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Boina de Fio 3M 8" Perfect-It Dupla Face Normal - Branca, 33313]]></Title>
+        <Brand><![CDATA[3M]]></Brand>
+        <Description><![CDATA[Boina Dupla Face Branca (Normal) 3M &eacute; recomendada para utiliza&ccedil;&atilde;o com o sistema de polimento 3M. Adapt&aacute;veis a qualquer politriz atrav&eacute;s do adaptador para boina. 
+
+Diferentes tipos (macia, normal e agressiva). Permitem polimento em todos os tipos de pintura. Utilizada no processo inicial com Extra Cut 3M (areas cr&iacute;ticas) ou Polidor Premium 3M.
+
+N&atilde;o necessitam de suporte. S&atilde;o conectadas diretamente na politriz atrav&eacute;s de um adaptador. Possuem furo central que evita o ac&uacute;mulo de material. S&atilde;o altamente flex&iacute;veis, permitindo o polimento em &aacute;reas cr&iacute;ticas.]]></Description>
+        <MSRP currency="USD"><![CDATA[145.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>3M-33315</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7891040077717</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Boina de Fio 3M 8" Perfect-It Dupla Face Super Macia - Amarela, 33315]]></Title>
+        <Brand><![CDATA[3M]]></Brand>
+        <Description><![CDATA[Boina Dupla Face Amarela (Super Macia) 3M &eacute; recomendada para utiliza&ccedil;&atilde;o com o sistema de polimento 3M. Adapt&aacute;veis a qualquer politriz atrav&eacute;s do adaptador para boina. 
+
+Diferentes tipos (macia, normal e agressiva). Permitem polimento em todos os tipos de pintura. Utilizada no processo seguinte, ap&oacute;s a Boina Normal, com Finesse-It 3M.
+
+A Boina Dupla Face Amarela Super Macia 3M n&atilde;o necessita de suporte. A Boina Amarela 3M &eacute; conectada diretamente na politriz atrav&eacute;s de um parafuso adaptador. Possuem furo central que evita o ac&uacute;mulo de material. S&atilde;o altamente flex&iacute;veis, permitindo o polimento em &aacute;reas cr&iacute;ticas.]]></Description>
+        <MSRP currency="USD"><![CDATA[144.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>3M-692</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7891040125692</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[3M Auto Shampoo Car Wash (500ml)]]></Title>
+        <Brand><![CDATA[3M]]></Brand>
+        <Description><![CDATA[Car Wash 3M &eacute; um sab&atilde;o neutro, que elimina sujeiras e protege o ve&iacute;culo, sem retirar a prote&ccedil;&atilde;o de cera. Car Wash 3M pode ser usado em qualquer superf&iacute;cie do carrro.
+
+Car Wash &eacute; um excelente shampoo neutro pois tem alta lubrifica&ccedil;&atilde;o e poder de remo&ccedil;&atilde;o de sujidades sem agredir a cera ou verniz. Ainda por cima, Car Wash 3M deixa o carro limpo e brilhando como que o carro fosse rescem aplicado cera.
+
+A dilui&ccedil;&atilde;o do Car Wash 3M &eacute; 1:80, 1 parte de Car Wash 3M para 80 partes de &aacute;gua.
+
+Principais caracter&iacute;sticas do Car Wash 3M
+
+Detergente automotivo (neutro)
+Remove sujeiras sem remover a cera
+F&oacute;rmula concentrada
+Rende at&eacute; 10 lavagens
+
+Aplica&ccedil;&atilde;o do Car Wash 3M
+
+1. Com o ve&iacute;culo na sombra, enx&aacute;g&uuml;e-o para remover o excesso de sujeira, sujeira pesada que possam riscar a pintura na hora da lavagem.
+2. Ap&oacute;s, agite a embalagem e dilua 2 medidas da tampa dosadora do Car Wash 3M&nbsp;em 4 litros de &aacute;gua.
+3. Lave o ve&iacute;culo com Car Wash 3M, utilizando uma Esponja Dupla A&ccedil;&atilde;o 3M&nbsp;ou Luva de Microfibra (recomendamos de preferencia a Luva de Microfibra), mergulhe&nbsp;solu&ccedil;&atilde;o, fazendo espuma e em seguida, inicie a lavagem pelas partes superiores.
+4. Enxag&uuml;e o ve&iacute;culo com a &aacute;gua novamente at&eacute; remover toda a espuma.
+5. Finalmente, seque-o com um pano macio, limpo e seco.
+
+CUIDADO! IRRITANTE PARA OLHOS E PELE.
+
+Car Wash 3M tem conte&uacute;do de 500ml.
+
+Car Wash 3M &eacute; um dos melhores detergentes para carros do mercado, sen&atilde;o o melhor.]]></Description>
+        <MSRP currency="USD"><![CDATA[29.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>3M-1426</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7891040089802</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Cera de Carnaúba 3M Perfect-It Paste Wax Super Protetora (200g)]]></Title>
+        <Brand><![CDATA[3M]]></Brand>
+        <Description><![CDATA[Cera de Carna&uacute;ba 3M Paste Wax 200g&nbsp;Super Protetora &eacute; uma cera de carna&uacute;ba que pode ser usada no polimento de autom&oacute;veis. Produto com caracter&iacute;sticas de brilho e prote&ccedil;&atilde;o incomparavelmente superior &agrave;s ceras tradicionais existentes no mercado. Deixa a pintura com um aspecto de brilho molhado, &nbsp;sendo necess&aacute;ria apenas uma pequena quantidade. Com aroma extremamente agrad&aacute;vel.
+Cera de Carna&uacute;ba 3M tamb&eacute;m &eacute; conhecida como Cera Cristalizadora 3M.
+Cera de Carna&uacute;ba 3M Paste Wax &eacute; a cera utilizada por profissionais para efetuarem a prote&ccedil;&atilde;o no Espelhamento 3M.
+A Cera de Carna&uacute;ba 3M &eacute; a base de carna&uacute;ba de excelente qualidade, por isso ela oferece alta prote&ccedil;&atilde;o e brilho. Por isso, a&nbsp;Cera Paste Wax 3M &eacute; uma das ceras mais utilizadas pelos profissionais na hora de proteger a pintura com qualidade.
+Cera de Carna&uacute;ba 3M &eacute; uma cera em pasta dura e sua aplica&ccedil;&atilde;o pode ser feita com Espuma Aplicadora ou Papel de Polimento 3M. Ap&oacute;s aplicada, &eacute; removida com Pano de Microfibra.
+Uma das grandes vantagens da&nbsp;Cera Paste Wax 3M &eacute; que ela n&atilde;o possui limpadores (abrasivos ou cleaners) podendo assim, ser aplicada diversas vezes em pinturas espelhadas sem causar nenhum risco.&nbsp;
+A 3M produz atualmente a Paste Wax Nacional e a Paste Wax Importada. Muitos dizem que a Paste Wax nacional &eacute; a mesma da importada e outros dizem que a importada &eacute; muito superior a nacional. A verdade &eacute; que a mat&eacute;ria prima utilizada nelas &eacute; pra ser a mesma mas n&atilde;o &eacute; totalmente. A Paste Wax nacional &eacute; fabricada com mat&eacute;ria prima encontrada no Brasil e a Paste Wax importada &eacute; fabricada com mat&eacute;ria prima encontrada nos EUA.
+A Cera de Carna&uacute;ba 3M possui um alto rendimento, podendo ser aplicada em at&eac]]></Description>
+        <MSRP currency="USD"><![CDATA[144.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>20</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>3M-39526</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>051131395268</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Cera de Carnaúba 3M Perfect-It Paste Wax, 39526 (297,7g) - Importada]]></Title>
+        <Brand><![CDATA[3M]]></Brand>
+        <Description><![CDATA[Cera de Carnaúba Paste Wax Importada 3M é uma cera que pode ser usada no polimento de automóveis. Produto com características de brilho e proteção incomparavelmente superior às ceras tradicionais existentes no mercado. Deixa a pintura com um aspecto de brilho molhado, sendo necessária apenas uma pequena quantidade. Com aroma extremamente agradável.&nbsp;Durabilidade de 6 meses, 15 a 20 lavagens.
+PRODUTO ORIGINAL
+
+Atenção que no mercado existem outros produtos chineses, que possuem embalagem&nbsp;idênticas as originais, porém, a qualidade do produto é totalmente outra. Nós só vendemos as originais, importadas diretamente dos EUA, de distribuidores certificados da 3M.
+Acabamento de alto brilho, com uma proteção de longa duração!&nbsp;
+A 3M produz atualmente a Paste Wax Nacional e a Paste Wax Importada. Muitos dizem que a Paste Wax nacional é a mesma da importada e outros dizem que a importada é muito superior a nacional. A verdade é que a matéria prima utilizada nelas é pra ser a mesma mas não é totalmente. A Paste Wax nacional é fabricada com matéria prima encontrada no Brasil e a Paste Wax importada é fabricada com matéria prima encontrada nos EUA.
+A Cera de Carnaúba 3M Paste Wax Importada possui um alto rendimento, podendo ser aplicada em até 40 veículos.
+A Cera Paste Wax Importada 3M é uma cera que começou a ser procurada após o surgimento de carros com look incrível&nbsp;e em carros de showroom, efetuado por um profissional. Com essa cera paste wax, a 3M torna possível você mesmo poder realizar um acabamento de "brilho molhado" na sua casa. 
+Produtos da 3M trazem um excelente resultado e também são um dos produtos favoritos dos profissionais do mundo inteiro.
+Cera de Carnaúba 3M Paste Wax Importada é uma&nbsp;cera em pasta que faz mais do que trazer brilho, ela oferece&nbsp;proteção da pintura contra raios UV, chuva ácida, contaminantes do ar e outros que possam prejudicar a pintura.&nbsp;
+A&nbsp;Cera Paste]]></Description>
+        <MSRP currency="USD"><![CDATA[229.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

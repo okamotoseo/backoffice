@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>AX3BXOBQKW3QC</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>50202018413</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>2</MessagesProcessed>
+				<MessagesSuccessful>0</MessagesSuccessful>
+				<MessagesWithError>2</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 24, Column 22: cvc-complex-type.2.4.a: Invalid content was found starting with element &apos;ProductType&apos;. One of &apos;{MerchantCatalogNumber, MSRP, MSRPWithTax, MaxOrderQuantity, SerialNumberRequired, Prop65, CPSIAWarning, CPSIAWarningDescription, LegalDisclaimer, Manufacturer, MfrPartNumber, SearchTerms, PlatinumKeywords, Memorabilia, Autographed, UsedFor, ItemType, OtherItemAttributes, TargetAudience, SubjectContent, IsGiftWrapAvailable, IsGiftMessageAvailable, PromotionKeywords, IsDiscontinuedByManufacturer, DeliveryScheduleGroupID, DeliveryChannel, ExternalProductInformation, MaxAggregateShipQuantity, RecommendedBrowseNode, MerchantShippingGroupName, FEDAS_ID, TSDAgeWarning, TSDWarning, TSDLanguage, OptionalPaymentTypeExclusion, DistributionDesignation, ExternalTestingCertification, Battery, BatteryCellType, BatteryWeight, NumberOfLithiumMetalCells, NumberOfLithiumIonCells, LithiumBatteryPackaging, LithiumBatteryEnergyContent, LithiumBatteryWeight, ItemWeight, ItemVolume, FlashPoint, GHSClassificationClass, SupplierDeclaredDGHZRegulation, HazmatUnitedNationsRegulatoryID, SafetyDataSheetURL, CaliforniaProposition65ComplianceType, CaliforniaProposition65ChemicalNames1, CaliforniaProposition65ChemicalNames2, CaliforniaProposition65ChemicalNames3, CaliforniaProposition65ChemicalNames4, CaliforniaProposition65ChemicalNames5, Voltage, ExternalRollingNoise, DepartmentName, FcStorageMethod, FcShelfLife, FdaPremarketApprovalNumberPma, FormFactor, PlanExpirationDate, ActiveIngredients, ProductExpirationType, PitchCircleDiameter, PEGIRating, USKRating, AssemblyInstructions, SizeName, SizeMap, SoftwareMediaFormat, CountryOfOrigin, HardwarePlatform, StyleName}&apos; is expected.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>6939-exported</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>4</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 60, Column 22: cvc-complex-type.2.4.a: Invalid content was found starting with element &apos;ProductType&apos;. One of &apos;{MerchantCatalogNumber, MSRP, MSRPWithTax, MaxOrderQuantity, SerialNumberRequired, Prop65, CPSIAWarning, CPSIAWarningDescription, LegalDisclaimer, Manufacturer, MfrPartNumber, SearchTerms, PlatinumKeywords, Memorabilia, Autographed, UsedFor, ItemType, OtherItemAttributes, TargetAudience, SubjectContent, IsGiftWrapAvailable, IsGiftMessageAvailable, PromotionKeywords, IsDiscontinuedByManufacturer, DeliveryScheduleGroupID, DeliveryChannel, ExternalProductInformation, MaxAggregateShipQuantity, RecommendedBrowseNode, MerchantShippingGroupName, FEDAS_ID, TSDAgeWarning, TSDWarning, TSDLanguage, OptionalPaymentTypeExclusion, DistributionDesignation, ExternalTestingCertification, Battery, BatteryCellType, BatteryWeight, NumberOfLithiumMetalCells, NumberOfLithiumIonCells, LithiumBatteryPackaging, LithiumBatteryEnergyContent, LithiumBatteryWeight, ItemWeight, ItemVolume, FlashPoint, GHSClassificationClass, SupplierDeclaredDGHZRegulation, HazmatUnitedNationsRegulatoryID, SafetyDataSheetURL, CaliforniaProposition65ComplianceType, CaliforniaProposition65ChemicalNames1, CaliforniaProposition65ChemicalNames2, CaliforniaProposition65ChemicalNames3, CaliforniaProposition65ChemicalNames4, CaliforniaProposition65ChemicalNames5, Voltage, ExternalRollingNoise, DepartmentName, FcStorageMethod, FcShelfLife, FdaPremarketApprovalNumberPma, FormFactor, PlanExpirationDate, ActiveIngredients, ProductExpirationType, PitchCircleDiameter, PEGIRating, USKRating, AssemblyInstructions, SizeName, SizeMap, SoftwareMediaFormat, CountryOfOrigin, HardwarePlatform, StyleName}&apos; is expected.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>6938-exported</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

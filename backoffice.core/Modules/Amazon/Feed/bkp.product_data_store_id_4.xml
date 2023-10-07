@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+  <Header>
+    <DocumentVersion>1.0</DocumentVersion>
+    <MerchantIdentifier>A2Q3Y263D00KWC</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <PurgeAndReplace>true</PurgeAndReplace>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>189</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651407021</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Ventilador De Teto Lumi M2 Preto Pás Mogno Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[Elegante e simples, esse Ventilador de Teto Lumi da Linha Diplomata conta com hastes pretas e três pás mogno trazendo sofisticação ao local. Uma ótima opção para instalar em cômodos com uma decoração mais simples e clara. 
+Tem a função de ventilação e exaustão em 3 níveis de velocidade que pode ser revertido sem desligar.
+Motor M2 de alta potência, carcaça em aço tratado e acabamento em pintura eletrostática a pó.
+Seu lustre de plástico é de ótimo acabamento. 
+
+Aproveite e garanta já o seu!
+
+COMPATÍVEL COM CONTROLE REMOTO, NÃO INCLUSO.
+TEMOS O CONTROLE DISPONÍVEL, ADICIONE À SUA SACOLA! 
+
+Este Ventilador é composto por:
+
+• 1 Motor
+• 1 Haste e suporte para fixação
+• 1 Manual de instalação
+• 1 Cone plástico
+• 3 Pás
+• 1 Controle de parede
+• 1 Conjunto de buchas e parafusos]]></Description>
+        <BulletPoint><![CDATA[Ventilador De Teto Lumi M2 Preto Pás Mogno Loren Sid]]></BulletPoint>
+        <ItemDimensions>
+          <Length unitOfMeasure="CM"><![CDATA[42]]></Length>
+          <Width unitOfMeasure="CM"><![CDATA[16]]></Width>
+          <Height unitOfMeasure="CM"><![CDATA[19]]></Height>
+        </ItemDimensions>
+        <ItemWeight unitOfMeasure="KG"><![CDATA[3.62]]></ItemWeight>
+        <Voltage unitOfMeasure="volts"><![CDATA[110]]></Voltage>
+        <CountryOfOrigin><![CDATA[BR]]></CountryOfOrigin>
+        <ItemType><![CDATA[Casa > Ar e Ventilação > Ventiladores > Ventiladores de Teto]]></ItemType>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <Parentage>parent</Parentage>
+          <VariationData>
+            <VariationTheme>Size-Color</VariationTheme>
+          </VariationData>
+          <ProductType>
+            <Casa/>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

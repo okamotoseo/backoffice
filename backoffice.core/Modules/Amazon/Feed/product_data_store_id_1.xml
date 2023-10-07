@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+  <Header>
+    <DocumentVersion>1.0</DocumentVersion>
+    <MerchantIdentifier>A2Q3Y263D00KWC</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <PurgeAndReplace>true</PurgeAndReplace>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>13</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651426404</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Ventilador De Teto Comercial M2 Branco Pás Brancas Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[Melhorando o clima e trazendo mais comodidade para o dia a dia, perfeito para sua loja, seu escritório e ate mesmo sua área externa. O Ventilador de Teto Diplomata Comercial se adéqua facilmente a ambientes residenciais e comerciais. 
+ Com carcaça e pás na cor branca,  ele possui função de ventilação e exaustão, permitindo a reversão sem a necessidade de desligar o aparelho.
+ Motor M2 de alta potência, carcaça em aço tratado e acabamento em pintura eletrostática a pó.
+
+ Aproveite e garanta já o seu!
+
+Compatível com controle remoto.
+Temos o controle disponível, adicione à sua sacola!
+
+Este Ventilador é composto por:
+
+• 1 Motor
+• 1 Haste e suporte para fixação
+• 1 Manual de instalação
+• 3 Pás
+• 1 Controle de parede
+• 1 Conjunto de buchas e parafusos]]></Description>
+        <MSRP currency="USD"><![CDATA[182.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>84</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7898947137360</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Lâmpada Fluorescente Compacta Espiral 46w 220v Foxlux]]></Title>
+        <Brand><![CDATA[Foxlux]]></Brand>
+        <Description><![CDATA[A Lâmpada Fluorescente
+Espiral Compacta, proporciona melhor distribuição da luminosidade e pode ser
+utilizada nos mais diversos locais, como ambientes residenciais, comerciais, industriais,
+escritórios, hotéis, restaurantes, entre muitos outros. Além de possuir um
+formato diferenciado, unindo design e praticidade, conta com uma economia de
+até 80% de energia.  
+
+Itens Inclusos:
+
+1 Lâmpada Compacta Espiral
+
+1 ano de garantia contra defeitos de fabricação]]></Description>
+        <MSRP currency="USD"><![CDATA[37.80]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>85</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7898105775106</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Lâmpada Fluorescente Compacta Espiral 85w 220v E40 Foxlux]]></Title>
+        <Brand><![CDATA[Foxlux]]></Brand>
+        <Description><![CDATA[A Lâmpada Fluorescente
+Espiral Compacta, proporciona melhor distribuição da luminosidade e pode ser
+utilizada nos mais diversos locais, como ambientes residenciais, comerciais, industriais,
+escritórios, hotéis, restaurantes, entre muitos outros. Além de possuir um
+formato diferenciado, unindo design e praticidade, conta com uma economia de
+até 80% de energia.  
+
+Itens Inclusos:
+
+1 Lâmpada Compacta Espiral
+
+1 ano de garantia contra defeitos de fabricação]]></Description>
+        <MSRP currency="USD"><![CDATA[69.80]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>86</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7898105775090</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Lâmpada Fluorescente Compacta Espiral 85w 220v Foxlux]]></Title>
+        <Brand><![CDATA[Foxlux]]></Brand>
+        <Description><![CDATA[A Lâmpada Fluorescente
+Espiral Compacta, proporciona melhor distribuição da luminosidade e pode ser
+utilizada nos mais diversos locais, como ambientes residenciais, comerciais, industriais,
+escritórios, hotéis, restaurantes, entre muitos outros. Além de possuir um
+formato diferenciado, unindo design e praticidade, conta com uma economia de
+até 80% de energia.  
+
+Itens Inclusos:
+
+1 Lâmpada Compacta Espiral
+
+1 ano de garantia contra defeitos de fabricação]]></Description>
+        <MSRP currency="USD"><![CDATA[74.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>92</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651427654</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Ventilador De Teto Comercial M2 Cinza Pás Cinza Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[Melhorando o clima e trazendo mais comodidade para o dia a dia, perfeito para sua loja, seu escritório e ate mesmo sua área externa. O Ventilador de Teto Diplomata Comercial se adéqua facilmente a ambientes residenciais e comerciais. 
+ Com carcaça e pás na cor cinza,  ele possui função de ventilação e exaustão, permitindo a reversão sem a necessidade de desligar o aparelho.
+ Motor M2 de alta potência, carcaça em aço tratado e acabamento em pintura eletrostática a pó.
+
+ Aproveite e garanta já o seu!
+
+Compatível com controle remoto.
+Temos o controle disponível, adicione à sua sacola!
+
+Este Ventilador é composto por:
+
+• 1 Motor
+• 1 Haste e suporte para fixação
+• 1 Manual de instalação
+• 3 Pás
+• 1 Controle de parede
+• 1 Conjunto de buchas e parafusos]]></Description>
+        <MSRP currency="USD"><![CDATA[182.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>183</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651416511</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Ventilador Turbo Orbital 40cm Branco Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[O Ventilador Turbo Orbital é um aparelho oscilante para ser instalado exclusivamente no teto. Com o seu movimento orbital juntamente com a opção de 3 ângulos de inclinação ele atinge uma ampla área de ventilação.
+
+Este Ventilador é composto por:
+
+• 1 Motor
+• 1 Haste e suporte para fixação
+• 1 Manual de instalação
+• 3 Hélices
+• 1 Controle de parede
+• 1 Conjunto de buchas e parafusos]]></Description>
+        <MSRP currency="USD"><![CDATA[286.50]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>186</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651424806</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Ventilador De Coluna Wind 40cm Preto Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[Ventilador moderno e potente para a sua casa, escritório ou qualquer outro ambiente que desejar, o Ventilador de Coluna garante um clima agradável para você, além de prático e moderno. Leve para qualquer ambiente seja sua casa, escritório ou loja. Pode inclinar e reclinar.
+
+Este Ventilador é composto por:
+
+• 1 Motor
+• 1 Haste e suporte para base
+• 1 Manual de instalação
+• 6 Hélices
+• 1 Kit acessórios para montagem(parafusos e travas da grade)]]></Description>
+        <MSRP currency="USD"><![CDATA[187.10]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>189</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651407021</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Ventilador De Teto Lumi M2 Preto Pás Mogno Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[Elegante e simples, esse Ventilador de Teto Lumi da Linha Diplomata conta com hastes pretas e três pás mogno trazendo sofisticação ao local. Uma ótima opção para instalar em cômodos com uma decoração mais simples e clara. 
+Tem a função de ventilação e exaustão em 3 níveis de velocidade que pode ser revertido sem desligar.
+Motor M2 de alta potência, carcaça em aço tratado e acabamento em pintura eletrostática a pó.
+Seu lustre de plástico é de ótimo acabamento. 
+
+Aproveite e garanta já o seu!
+
+COMPATÍVEL COM CONTROLE REMOTO, NÃO INCLUSO.
+TEMOS O CONTROLE DISPONÍVEL, ADICIONE À SUA SACOLA! 
+
+Este Ventilador é composto por:
+
+• 1 Motor
+• 1 Haste e suporte para fixação
+• 1 Manual de instalação
+• 1 Cone plástico
+• 3 Pás
+• 1 Controle de parede
+• 1 Conjunto de buchas e parafusos]]></Description>
+        <MSRP currency="USD"><![CDATA[190.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>198</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651402613</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Ventilador De Teto Lumi M2 Branco Pás Mogno Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[Elegante e simples, esse Ventilador de Teto Lumi da Linha Diplomata conta com hastes brancas e três pás mogno trazendo sofisticação ao local. Uma ótima opção para instalar em cômodos com uma decoração mais simples e clara. 
+Tem a função de ventilação e exaustão em 3 níveis de velocidade que pode ser revertido sem desligar.
+Motor M2 de alta potência, carcaça em aço tratado e acabamento em pintura eletrostática a pó.
+Seu lustre de plástico é de ótimo acabamento. 
+
+ Aproveite e garanta já o seu!
+
+COMPATÍVEL COM CONTROLE REMOTO, NÃO INCLUSO.
+TEMOS O CONTROLE DISPONÍVEL, ADICIONE À SUA SACOLA! 
+
+Este Ventilador é composto por:
+
+• 1 Motor
+• 1 Haste e suporte para fixação
+• 1 Manual de instalação
+• 1 Cone plástico
+• 3 Pás
+• 1 Controle de parede
+• 1 Conjunto de buchas e parafusos]]></Description>
+        <MSRP currency="USD"><![CDATA[190.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>20</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>254</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7898947137322</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Lâmpada Fluorescente Compacta Espiral 46w 127v Foxlux]]></Title>
+        <Brand><![CDATA[Foxlux]]></Brand>
+        <Description><![CDATA[A Lâmpada Fluorescente
+Espiral Compacta, proporciona melhor distribuição da luminosidade e pode ser
+utilizada nos mais diversos locais, como ambientes residenciais, comerciais, industriais,
+escritórios, hotéis, restaurantes, entre muitos outros. Além de possuir um
+formato diferenciado, unindo design e praticidade, conta com uma economia de
+até 80% de energia.  
+
+Itens Inclusos:
+
+1 Lâmpada Compacta Espiral
+
+1 ano de garantia contra defeitos de fabricação]]></Description>
+        <MSRP currency="USD"><![CDATA[37.80]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>22</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>302</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651417709</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Exaustor 30cm Reversão Cinza Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[O exaustor Loren Sid poder ser facilmente instalado, além de possuir fácil limpeza. É essencial ter aquela ventilação para controlar o ar do ambiente e manter o clima agradável. 
+Tem a função de ventilação e exaustão em 1 níveis de velocidade.]]></Description>
+        <MSRP currency="USD"><![CDATA[194.50]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>24</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>303</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651417716</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Exaustor 30cm Reversão Cinza Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[O exaustor Loren Sid poder ser facilmente instalado, além de possuir fácil limpeza. É essencial ter aquela ventilação para controlar o ar do ambiente e manter o clima agradável.
+Tem a função de ventilação e exaustão em 1 níveis de velocidade.]]></Description>
+        <MSRP currency="USD"><![CDATA[194.50]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>26</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>304</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651417723</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Exaustor 40cm Reversão Cinza Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[O exaustor Loren Sid poder ser facilmente instalado, além de possuir fácil limpeza. É essencial ter aquela ventilação para controlar o ar do ambiente e manter o clima agradável. 
+Tem a função de ventilação e exaustão em 1 níveis de velocidade.]]></Description>
+        <MSRP currency="USD"><![CDATA[231.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>28</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>305</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651417754</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Exaustor 50cm Reversão Cinza Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[O exaustor Loren Sid poder ser facilmente instalado, além de possuir fácil limpeza. É essencial ter aquela ventilação para controlar o ar do ambiente e manter o clima agradável.
+Tem a função de ventilação e exaustão em 1 níveis de velocidade.]]></Description>
+        <MSRP currency="USD"><![CDATA[295.70]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>30</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>392</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651401647</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Exaustor Luxo 25cm Com Grade Cromada Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[O exaustor Luxo Loren Sid poder ser facilmente instalado, além de possuir fácil limpeza, baixo nível de ruído e gaveta para acúmulo de gordura ainda tem aba externa protetora de chuva. É essencial ter aquela ventilação para controlar o ar do ambiente e manter o clima agradável. Ideal para cozinhas residenciais e ambientes comerciais pequenos.]]></Description>
+        <MSRP currency="USD"><![CDATA[142.90]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>32</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>393</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651417747</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Exaustor 50cm Reversão Cinza Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[O exaustor Loren Sid poder ser facilmente instalado, além de possuir fácil limpeza. É essencial ter aquela ventilação para controlar o ar do ambiente e manter o clima agradável.
+Tem a função de ventilação e exaustão em 1 níveis de velocidade.]]></Description>
+        <MSRP currency="USD"><![CDATA[295.70]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>34</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>394</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651413886</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Ventilador De Teto Onix Quadrado Cromado Pás Transparente Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[O Ventilador de Teto Diplo Onix da Loren sid linha Diplomata, desenvolvida exclusivamente para valorizar a decoração do ambiente de sua preferência. 
+ Silencioso e com um baixo consumo de energia possui pintura eletrostática que evita o acumulo de pó ajudando a manter a cor original por mais tempo.  
+Prático de ser instalado este modelo é ideal para manter o conforto térmico de ambientes fechados com elegância e eficiência. 
+O design único do plafonier e das pás fazem dele a escolha perfeita para destacar a decoração de cômodos como escritórios e salas de estar.
+
+ Aproveite e garanta já o seu!
+
+COMPATÍVEL COM CONTROLE REMOTO, NÃO INCLUSO.
+TEMOS O CONTROLE DISPONÍVEL, ADICIONE À SUA SACOLA!
+
+Este Ventilador é composto por:
+
+• 1 Motor
+• 1 Haste e suporte para fixação
+• 1 Manual de instalação
+• 1 Globo de vidro
+• 3 Pás
+• 1 Controle de parede
+• 1 Conjunto de buchas e parafusos]]></Description>
+        <MSRP currency="USD"><![CDATA[361.60]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>36</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>395</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651413893</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Ventilador De Teto Onix Quadrado Cromado Pás Transparente Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[O Ventilador de Teto Diplo Onix da Loren sid linha Diplomata, desenvolvida exclusivamente para valorizar a decoração do ambiente de sua preferência. 
+ Silencioso e com um baixo consumo de energia possui pintura eletrostática que evita o acumulo de pó ajudando a manter a cor original por mais tempo.  
+Prático de ser instalado este modelo é ideal para manter o conforto térmico de ambientes fechados com elegância e eficiência. 
+O design único do plafonier e das pás fazem dele a escolha perfeita para destacar a decoração de cômodos como escritórios e salas de estar.
+
+ Aproveite e garanta já o seu!
+
+COMPATÍVEL COM CONTROLE REMOTO, NÃO INCLUSO.
+TEMOS O CONTROLE DISPONÍVEL, ADICIONE À SUA SACOLA!
+
+Este Ventilador é composto por:
+
+• 1 Motor
+• 1 Haste e suporte para fixação
+• 1 Manual de instalação
+• 1 Globo de vidro
+• 3 Pás
+• 1 Controle de parede
+• 1 Conjunto de buchas e parafusos]]></Description>
+        <MSRP currency="USD"><![CDATA[361.60]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>38</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>396</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651420372</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Ventilador De Teto Onix Quadrado Branco Pás Transparente Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[O Ventilador de Teto Diplo Onix da Loren sid linha Diplomata, desenvolvida exclusivamente para valorizar a decoração do ambiente de sua preferência. 
+ Silencioso e com um baixo consumo de energia possui pintura eletrostática que evita o acumulo de pó ajudando a manter a cor original por mais tempo.  
+Prático de ser instalado este modelo é ideal para manter o conforto térmico de ambientes fechados com elegância e eficiência. 
+O design único do plafonier e das pás fazem dele a escolha perfeita para destacar a decoração de cômodos como escritórios e salas de estar.
+
+ Aproveite e garanta já o seu!
+
+COMPATÍVEL COM CONTROLE REMOTO, NÃO INCLUSO.
+TEMOS O CONTROLE DISPONÍVEL, ADICIONE À SUA SACOLA!
+
+Este Ventilador é composto por:
+
+• 1 Motor
+• 1 Haste e suporte para fixação
+• 1 Manual de instalação
+• 1 Globo de vidro
+• 3 Pás
+• 1 Controle de parede
+• 1 Conjunto de buchas e parafusos]]></Description>
+        <MSRP currency="USD"><![CDATA[313.50]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>40</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>397</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>7896651420389</Value>
+      </StandardProductID>
+      <ProductTaxCode>A_GEN_NOTAX</ProductTaxCode>
+      <DescriptionData>
+        <Title><![CDATA[Ventilador De Teto Onix Quadrado Branco Pás Transparente Loren Sid]]></Title>
+        <Brand><![CDATA[Loren Sid]]></Brand>
+        <Description><![CDATA[O Ventilador de Teto Diplo Onix da Loren sid linha Diplomata, desenvolvida exclusivamente para valorizar a decoração do ambiente de sua preferência. 
+ Silencioso e com um baixo consumo de energia possui pintura eletrostática que evita o acumulo de pó ajudando a manter a cor original por mais tempo.  
+Prático de ser instalado este modelo é ideal para manter o conforto térmico de ambientes fechados com elegância e eficiência. 
+O design único do plafonier e das pás fazem dele a escolha perfeita para destacar a decoração de cômodos como escritórios e salas de estar.
+
+ Aproveite e garanta já o seu!
+
+Compatível com controle remoto.
+Temos o controle disponível, adicione à sua sacola!
+
+Este Ventilador é composto por:
+
+• 1 Motor
+• 1 Haste e suporte para fixação
+• 1 Manual de instalação
+• 1 Globo de vidro
+• 3 Pás
+• 1 Controle de parede
+• 1 Conjunto de buchas e parafusos]]></Description>
+        <MSRP currency="USD"><![CDATA[313.50]]></MSRP>
+      </DescriptionData>
+      <ProductData>
+        <Home/>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

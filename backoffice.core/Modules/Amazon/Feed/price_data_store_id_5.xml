@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+  <Header>
+    <DocumentVersion>1.0</DocumentVersion>
+    <MerchantIdentifier>AX3BXOBQKW3QC</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <PurgeAndReplace>true</PurgeAndReplace>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Price>
+      <SKU>999</SKU>
+      <StandardPrice currency="BRL">100.00</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Price>
+      <SKU>3M-152</SKU>
+      <StandardPrice currency="BRL">19.90</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Price>
+      <SKU>3M-714</SKU>
+      <StandardPrice currency="BRL">14.93</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Price>
+      <SKU>3M-NB-018</SKU>
+      <StandardPrice currency="BRL">11.66</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Price>
+      <SKU>3M-394</SKU>
+      <StandardPrice currency="BRL">65.90</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Price>
+      <SKU>3M-PN05701</SKU>
+      <StandardPrice currency="BRL">145.90</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Price>
+      <SKU>3M-33315</SKU>
+      <StandardPrice currency="BRL">113.90</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Price>
+      <SKU>3M-692</SKU>
+      <StandardPrice currency="BRL">29.90</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Price>
+      <SKU>3M-1426</SKU>
+      <StandardPrice currency="BRL">144.90</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>20</MessageID>
+    <OperationType>Update</OperationType>
+    <Price>
+      <SKU>3M-39526</SKU>
+      <StandardPrice currency="BRL">229.90</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>
