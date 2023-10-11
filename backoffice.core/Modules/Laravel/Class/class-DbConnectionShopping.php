@@ -9,10 +9,10 @@ class DbConnectionShopping
 
 {
 
-    public $host      = '130.211.120.228', // Host da base de dados
-           $db_name   = 'shopping',   // Nome do banco de dados
-           $password  = 'w8#9x5vh',  // Senha do usuário da base de dados
-           $user      = 'backoffice',   // Usuário da base de dados
+    public $host      = '', // Host da base de dados
+           $db_name   = '',   // Nome do banco de dados
+           $password  = '',  // Senha do usuário da base de dados
+           $user      = '',   // Usuário da base de dados
            $charset   = 'utf8',      // Charset da base de dados
            $pdo       = null,        // Nossa conexão com o BD
            $error     = true,        // Configura o erro
