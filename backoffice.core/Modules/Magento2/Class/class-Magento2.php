@@ -7,9 +7,9 @@ class Magento2 {
 	 */
     const VERSION  = "1.1.0";
     
-    private  $consumer_key = 'u89w9s0k7nytv5pwg1e64dujyv4qbbuc';
+    private  $consumer_key = '';
     
-    private  $consumer_secret = 'zn3zpnwpzx7dkosibqdzdyjyxylw4gvr';
+    private  $consumer_secret = '';
     
     protected $access_token;
     
